@@ -1,4 +1,4 @@
-# testTaskForAkvelon
+# Implement Web API for entering project data into the database
 
 The project was created in the integrated development environment of Visual Studio 2022 Version 17.1.0.
 
