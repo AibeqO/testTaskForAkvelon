@@ -13,3 +13,5 @@ Project Information:
 What was implemented:
 1. Performing CRUD for the "Project" table having the primary key project_id;
 2. Performing CRUD for the "Task" table that has a foreign key that references Project.project_id.
+
+Performed a health check via POSTMAN by sending POST/GET/PUT requests.
